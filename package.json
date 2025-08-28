@@ -1,0 +1,27 @@
+{
+  "name": "luhn-generator-crypto",
+  "description": "A modified version of the original luhn-generator (by rromanovsky) that uses cryptographic randomness (randomBytes) for secure randomness.",
+  "version": "1.0.1",
+  "author": "QuickGate <support@quickgate.io>",
+  "homepage": "https://github.com/quickgate-io/luhn-generator-crypto",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quickgate-io/luhn-generator-crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quickgate-io/luhn-generator-crypto/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "luhn",
+    "generator",
+    "modulus 10",
+    "mod 10",
+    "algorithm",
+    "formula",
+    "checksum",
+    "cryptographic",
+    "randomness"
+  ],
+  "license": "MIT"
+}
